@@ -1,5 +1,7 @@
 private/
 
+state.json
+
 # Logs
 logs
 *.log
